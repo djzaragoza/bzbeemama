@@ -1,0 +1,14 @@
+body {
+    max-width: 100%;
+}
+
+.container-fluid {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    
+}
