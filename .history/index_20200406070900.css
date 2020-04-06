@@ -4,3 +4,11 @@ body {
     max-width: 100%;
     font-family: 'Montserrat', sans-serif;
 }
+
+.container-fluid {
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+
