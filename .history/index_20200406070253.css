@@ -1,0 +1,22 @@
+@import url('https://')
+
+body {
+    max-width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid {
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+}
+
+.bzbee {
+    font-size: 60px;
+    color: #FCFF08;
+}
